@@ -43,13 +43,12 @@ V našem skupinovém projektu zpracováváme Celiakii a z toho důvodu jsem se r
     </item>
     
     <item>
-      <title>About</title>
+      <title>O projektu</title>
       <link>https://pavlucie.github.io/hugo-start/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pavlucie.github.io/hugo-start/about/</guid>
-      <description>This is a minimal Hugo website created for a course VIKBA07.
-Learn more about Hugo with a quick start guide or by exploring its documentation.</description>
+      <description>1) Cílovou skupinu či skupiny (buďte konkrétní — „kdokoli“ a podobné definice jsou nepřípustné) Cílovou skupinou by byli lidé, kteří se chtějí seznámit s nemocí celiakie. Ať už z toho důvodu, že jim byla nemoc nově diagnostikována, nebo z důvodu, že se v jejich okolí někdo s takovou nemocí vyskytuje. Také bychom se zaměřili na praktické a stručné informace pro lidi, kteří ví, že k nim na návštěvu přijde člověk dodržující bezlepkovou dietu a mají zájem tohoto návštěvníka nějakým způsobem pohostit.</description>
     </item>
     
   </channel>
