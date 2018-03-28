@@ -4,6 +4,10 @@ menu:
   main:
     weight: 30
 ---
+
+  
+
+
 1) Cílovou skupinu či skupiny (buďte konkrétní — „kdokoli“ a podobné definice jsou nepřípustné)
 Cílovou skupinou by byli lidé, kteří se chtějí seznámit s nemocí celiakie. Ať už z toho důvodu, že jim byla nemoc nově diagnostikována, nebo z důvodu, že se v jejich okolí někdo s takovou nemocí vyskytuje. Také bychom se zaměřili na praktické a stručné informace pro lidi, kteří ví, že k nim na návštěvu přijde člověk dodržující bezlepkovou dietu a mají zájem tohoto návštěvníka nějakým způsobem pohostit.
 
@@ -78,3 +82,11 @@ Důležité odkazy
 Bude se jednat o jednorázově vytvořenou webovou stránku, která bude sloužit jako rozcestník a stručný rádce pro danou cílovou skupinu.
 Informace budou zveřejněny jednorázově z dohledaných zdrojů
 Rozcestník bude rozdělen do kategorií, které jsou vypsané v bodě 8. 
+
+     
+-----  
+### Členové týmu
+Pavelková Lucie  
+Svobodová Eliška  
+Ježková Kamila  
+
