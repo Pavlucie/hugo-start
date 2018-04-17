@@ -88,5 +88,5 @@ Rozcestník bude rozdělen do kategorií, které jsou vypsané v bodě 8.
 ### Členové týmu
 Pavelková Lucie  
 Svobodová Eliška  
-Ježková Kamila  
+Ježová Kamila  
 
