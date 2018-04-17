@@ -6,10 +6,20 @@
     <description>Recent content in Home on O chytrém ševci a hloupém čertovi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>cs-cz</language>
-    <lastBuildDate>Wed, 28 Mar 2018 13:46:08 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 17 Apr 2018 21:09:22 +0200</lastBuildDate>
     
 	<atom:link href="https://pavlucie.github.io/hugo-start/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Dataset</title>
+      <link>https://pavlucie.github.io/hugo-start/post/dataset/</link>
+      <pubDate>Tue, 17 Apr 2018 21:09:22 +0200</pubDate>
+      
+      <guid>https://pavlucie.github.io/hugo-start/post/dataset/</guid>
+      <description>Data k projektu Databáze vyhovujících bezlepkových výrobků Odkaz: http://www.bezlepkovadieta.cz/kontrolovane-vyrobky/databaze-bezlepkove-vyrobky-vyhovujici
+Tato databáze vznikla díky projektu Národní agentury pro zemědělský výzkum Ministerstva zemědělství ČR. Na tvorbě databáze se podílelo sdružení celiaků České republiky. Uvádí výrobky, které vyhovují běžné stravě člověka trpící touto nemocí a slouží pacientům, lékařům či rodičům. Tabulka obsahuje seznam pekařských výrobků, výrobce těchto výrobků a čísla výrobků.</description>
+    </item>
     
     <item>
       <title>Celiakie</title>
