@@ -1,5 +1,5 @@
 .wrapper {
-  margin: 30px auto;
+  margin: 50px auto;
   max-width: 800px;
   padding: 20px;
 }
@@ -7,18 +7,19 @@
 header {
   padding: 30px 0 0;
   border-bottom: solid;
+  background-image: url("https://is.muni.cz/auth/de/460980/Gluten_free.jpg");
 }
 
 footer {
-  border-top: solid;
+  border-top: dotted;
   clear: both;
 }
 
 .page {
   float: right;
   width: 70%;
-  border-left: solid;
-  padding-left: 1.5em;
+  border-left: dotted;
+  padding-left: 1.6em;
   padding-bottom: 2em;
   min-height: 400px;
 }
