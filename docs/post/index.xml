@@ -6,10 +6,22 @@
     <description>Recent content in Archive on O chytrém ševci a hloupém čertovi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>cs-cz</language>
-    <lastBuildDate>Wed, 28 Mar 2018 13:46:08 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 25 Apr 2018 17:32:23 +0200</lastBuildDate>
     
 	<atom:link href="https://pavlucie.github.io/hugo-start/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Recept</title>
+      <link>https://pavlucie.github.io/hugo-start/post/recept/_index.md/</link>
+      <pubDate>Wed, 25 Apr 2018 17:32:23 +0200</pubDate>
+      
+      <guid>https://pavlucie.github.io/hugo-start/post/recept/_index.md/</guid>
+      <description>Světlý chléb bez lepku Recept na světlý bezlepkový chéb pečený v domácí pekárně.
+Ingredience:
+ 600g bezlepkové mouky např.: Jizerky 500ml vlažné vody 20g droždí 1 lžička cukru 2 lžíce oleje 1 lžíce octa 1 lžička soli 1 lžička kmínu  Postup:
+Vlažnou vodu nalijeme do formy na pečení. Rozdrobíme droždí. Přidáme lžičku cukru. Nasypeme rovnoměrně mouku. Na ni nasypeme lžičku soli a přidáme ocet a olej. Formu vložíme do domácí pekárny a pečeme na režim Bezlepkové pečení nebo minimálně 2 hodiny a 30 minut.</description>
+    </item>
     
     <item>
       <title>Celiakie</title>
