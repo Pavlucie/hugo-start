@@ -17,8 +17,10 @@
       <pubDate>Tue, 17 Apr 2018 21:09:22 +0200</pubDate>
       
       <guid>https://pavlucie.github.io/hugo-start/post/dataset/</guid>
-      <description>Data k projektu Databáze vyhovujících bezlepkových výrobků Odkaz: http://www.bezlepkovadieta.cz/kontrolovane-vyrobky/databaze-bezlepkove-vyrobky-vyhovujici
-Tato databáze vznikla díky projektu Národní agentury pro zemědělský výzkum Ministerstva zemědělství ČR. Na tvorbě databáze se podílelo sdružení celiaků České republiky. Uvádí výrobky, které vyhovují běžné stravě člověka trpící touto nemocí a slouží pacientům, lékařům či rodičům. Tabulka obsahuje seznam pekařských výrobků, výrobce těchto výrobků a čísla výrobků.</description>
+      <description>Data k projektu Tento dataset jde vyu��t, jako seznam potravin, kter� mohou konzumovat lid� s celiaki� r�zn�ho v�ku. �ten��i s celiaki� si mohou vyhledat pe�ivo i s v�robcem a &amp;ldquo;neceliak�m&amp;rdquo; tato tabulka m��e slou�it, jako zaj�mav� pohled na stravu celiaka.
+Licence: Tento dataset je origin�ln�m d�lem str�nky.&amp;rdquo;
+Datab�ze vyhovuj�c�ch bezlepkov�ch v�robk� Odkaz: http://www.bezlepkovadieta.cz/kontrolovane-vyrobky/databaze-bezlepkove-vyrobky-vyhovujici
+Tato datab�ze vznikla d�ky projektu N�rodn� agentury pro zem�d�lsk� v�zkum Ministerstva zem�d�lstv� �R. Na tvorb� datab�ze se pod�lelo sdru�en� celiak� �esk� republiky.</description>
     </item>
     
     <item>
