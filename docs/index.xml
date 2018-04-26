@@ -6,23 +6,33 @@
     <description>Recent content in Home on Celiakie k snídani, k obědu i k večeři</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>cs-cz</language>
-
-    <lastBuildDate>Tue, 17 Apr 2018 21:09:22 +0200</lastBuildDate>
-
+    <lastBuildDate>Wed, 25 Apr 2018 17:32:23 +0200</lastBuildDate>
     
 	<atom:link href="https://pavlucie.github.io/hugo-start/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-
+      <title>Recept</title>
+      <link>https://pavlucie.github.io/hugo-start/post/recept/_index.md/</link>
+      <pubDate>Wed, 25 Apr 2018 17:32:23 +0200</pubDate>
+      
+      <guid>https://pavlucie.github.io/hugo-start/post/recept/_index.md/</guid>
+      <description>Světlý chléb bez lepku Recept na světlý bezlepkový chéb pečený v domácí pekárně.
+Ingredience:
+ 600g bezlepkové mouky např.: Jizerky 500ml vlažné vody 20g droždí 1 lžička cukru 2 lžíce oleje 1 lžíce octa 1 lžička soli 1 lžička kmínu  Postup:
+Vlažnou vodu nalijeme do formy na pečení. Rozdrobíme droždí. Přidáme lžičku cukru. Nasypeme rovnoměrně mouku. Na ni nasypeme lžičku soli a přidáme ocet a olej. Formu vložíme do domácí pekárny a pečeme na režim Bezlepkové pečení nebo minimálně 2 hodiny a 30 minut.</description>
+    </item>
+    
+    <item>
       <title>Dataset</title>
       <link>https://pavlucie.github.io/hugo-start/post/dataset/</link>
       <pubDate>Tue, 17 Apr 2018 21:09:22 +0200</pubDate>
       
       <guid>https://pavlucie.github.io/hugo-start/post/dataset/</guid>
-      <description>Data k projektu Databáze vyhovujících bezlepkových výrobků Odkaz: http://www.bezlepkovadieta.cz/kontrolovane-vyrobky/databaze-bezlepkove-vyrobky-vyhovujici
-Tato databáze vznikla díky projektu Národní agentury pro zemědělský výzkum Ministerstva zemědělství ČR. Na tvorbě databáze se podílelo sdružení celiaků České republiky. Uvádí výrobky, které vyhovují běžné stravě člověka trpící touto nemocí a slouží pacientům, lékařům či rodičům. Tabulka obsahuje seznam pekařských výrobků, výrobce těchto výrobků a čísla výrobků.</description>
-
+      <description>Data k projektu Tento dataset jde vyu��t, jako seznam potravin, kter� mohou konzumovat lid� s celiaki� r�zn�ho v�ku. �ten��i s celiaki� si mohou vyhledat pe�ivo i s v�robcem a &amp;ldquo;neceliak�m&amp;rdquo; tato tabulka m��e slou�it, jako zaj�mav� pohled na stravu celiaka.
+Licence: Tento dataset je origin�ln�m d�lem str�nky.&amp;rdquo;
+Datab�ze vyhovuj�c�ch bezlepkov�ch v�robk� Odkaz: http://www.bezlepkovadieta.cz/kontrolovane-vyrobky/databaze-bezlepkove-vyrobky-vyhovujici
+Tato datab�ze vznikla d�ky projektu N�rodn� agentury pro zem�d�lsk� v�zkum Ministerstva zem�d�lstv� �R. Na tvorb� datab�ze se pod�lelo sdru�en� celiak� �esk� republiky.</description>
     </item>
     
     <item>
