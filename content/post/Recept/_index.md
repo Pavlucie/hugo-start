@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Recept"
 date: 2018-04-25T17:32:23+02:00
 draft: false
