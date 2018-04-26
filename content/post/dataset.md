@@ -1,4 +1,4 @@
----
+ï»¿---
 title: "Dataset"
 date: 2018-04-17T21:09:22+02:00
 draft: false
@@ -7,14 +7,14 @@ draft: false
 
 ### Data k projektu 
 
-Tento dataset jde vyuít, jako seznam potravin, které mohou konzumovat lidé s celiakií rùzného vìku. Ètenáøi s celiakií si mohou vyhledat peèivo i s vırobcem a "neceliakùm" tato tabulka mùe slouit, jako zajímavı pohled na stravu celiaka. 
+Tento dataset jde vyuÅ¾Ã­t, jako seznam potravin, kterÃ© mohou konzumovat lidÃ© s celiakiÃ­ rÅ¯znÃ©ho vÄ›ku. ÄŒtenÃ¡Å™i s celiakiÃ­ si mohou vyhledat peÄivo i s vÃ½robcem a "neceliakÅ¯m" tato tabulka mÅ¯Å¾e slouÅ¾it, jako zajÃ­mavÃ½ pohled na stravu celiaka. 
 
-Licence: Tento dataset je originálním dílem stránky." 
+Licence: Tento dataset je originÃ¡lnÃ­m dÃ­lem strÃ¡nky." 
 
-## Databáze vyhovujících bezlepkovıch vırobkù  
+## DatabÃ¡ze vyhovujÃ­cÃ­ch bezlepkovÃ½ch vÃ½robkÅ¯  
 
 Odkaz: http://www.bezlepkovadieta.cz/kontrolovane-vyrobky/databaze-bezlepkove-vyrobky-vyhovujici  
 
-Tato databáze vznikla díky projektu Národní agentury pro zemìdìlskı vızkum Ministerstva zemìdìlství ÈR. Na tvorbì databáze se podílelo sdruení celiakù Èeské republiky. Uvádí vırobky, 
-které vyhovují bìné stravì èlovìka trpící touto nemocí a slouí pacientùm, lékaøùm èi rodièùm. Tabulka obsahuje seznam pekaøskıch vırobkù, vırobce tìchto vırobkù a èísla vırobkù. 
+Tato databÃ¡ze vznikla dÃ­ky projektu NÃ¡rodnÃ­ agentury pro zemÄ›dÄ›lskÃ½ vÃ½zkum Ministerstva zemÄ›dÄ›lstvÃ­ ÄŒR. Na tvorbÄ› databÃ¡ze se podÃ­lelo sdruÅ¾enÃ­ celiakÅ¯ ÄŒeskÃ© republiky. UvÃ¡dÃ­ vÃ½robky, 
+kterÃ© vyhovujÃ­ bÄ›Å¾nÃ© stravÄ› ÄlovÄ›ka trpÃ­cÃ­ touto nemocÃ­ a slouÅ¾Ã­ pacientÅ¯m, lÃ©kaÅ™Å¯m Äi rodiÄÅ¯m. Tabulka obsahuje seznam pekaÅ™skÃ½ch vÃ½robkÅ¯, vÃ½robce tÄ›chto vÃ½robkÅ¯ a ÄÃ­sla vÃ½robkÅ¯. 
 
