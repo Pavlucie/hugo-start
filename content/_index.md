@@ -11,7 +11,7 @@ Jedná se o zkušební verzi tvorby stránek, proto Vás prosíme o shovívavost
 
 
 
-## Motto do života
+## Motto
 
 > *Nezapomeň - člověk potřebuje málo k tomu, aby vedl spokojený život.*
 > 
@@ -19,5 +19,5 @@ Jedná se o zkušební verzi tvorby stránek, proto Vás prosíme o shovívavost
 
 Tím málem pro nás, které snad povede ke spokojenému životu, je splnit úkoly v rámci tohoto předmětu. Proto nám, prosím, odpusťte nedostatky této webové stránky.
 
-Děkujeme :-)
+Děkujeme.
 
