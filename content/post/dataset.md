@@ -17,4 +17,3 @@ Odkaz: http://www.bezlepkovadieta.cz/kontrolovane-vyrobky/databaze-bezlepkove-vy
 
 Tato databáze vznikla díky projektu Národní agentury pro zemědělský výzkum Ministerstva zemědělství ČR. Na tvorbě databáze se podílelo sdružení celiaků České republiky. Uvádí výrobky, 
 které vyhovují běžné stravě člověka trpící touto nemocí a slouží pacientům, lékařům či rodičům. Tabulka obsahuje seznam pekařských výrobků, výrobce těchto výrobků a čísla výrobků. 
-
