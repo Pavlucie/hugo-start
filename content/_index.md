@@ -2,26 +2,22 @@
 title: Home
 ---
 
-# Hello World! (It works!)
+# Celiakie k snídani, k obědu i k večeři
 
-This are the contents of the Hugo start website front page.
+Vítáme Vás na stránce, kde můžete najít informace týkající se nemoci Celiakie a bezlepkové diety.
 
-## Something to read: Sonnet LXVI.
+Tato stránka vzniká jako součást projektu v rámci předmětu Nástroje a možnosti internetu.
+Jedná se o zkušební verzi tvorby stránek, proto Vás prosíme o shovívavost.
 
-> *Tired with all these, for restful death I cry,  
-> As to behold desert a beggar born,  
-> And needy nothing trimm'd in jollity,  
-> And purest faith unhappily forsworn,  
-> And gilded honour shamefully misplaced,  
-> And maiden virtue rudely strumpeted,  
-> And right perfection wrongfully disgraced,  
-> And strength by limping sway disabled  
-> And art made tongue-tied by authority,  
-> And folly, doctor-like, controlling skill,  
-> And simple truth miscalled simplicity,  
-> And captive good attending captain ill:  
-> Tired with all these, from these would I be gone,  
-> Save that, to die, I leave my love alone.*
+
+
+## Motto
+
+> *Nezapomeň - člověk potřebuje málo k tomu, aby vedl spokojený život.*
 > 
-> William Shakespeare
+> Marcus Aurelius
+
+Tím málem pro nás, které snad povede ke spokojenému životu, je splnit úkoly v rámci tohoto předmětu. Proto nám, prosím, odpusťte nedostatky této webové stránky.
+
+Děkujeme.
 
