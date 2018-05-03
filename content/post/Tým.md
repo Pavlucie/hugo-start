@@ -5,4 +5,4 @@ draft: false
 ---  
 
 Tým tvoří El
-iška Svobodová, Kamila Ježová a Lucie Pavelková. Jsme tímto tématem motivovány, protože hodně lidí na světě tímto onemocněním trpí a informací o něm není mnoho. Využijeme osobní zkušenosti jedné z nás, a tím vnesem originalitu do našeho projektu.
+iška Svobodová, Kamila Ježová a Lucie Pavelková. Jsme tímto tématem motivovány, protože spousta lidí na světě tímto onemocněním trpí a informací o něm není mnoho. Využijeme osobní zkušenosti jedné z nás, a tím vnesem originalitu do našeho projektu.

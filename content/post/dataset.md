@@ -9,7 +9,7 @@ draft: false
 
 Tento dataset jde využít, jako seznam potravin, které mohou konzumovat lidé s celiakií různého věku. Čtenáři s celiakií si mohou vyhledat pečivo i s výrobcem a "neceliakům" tato tabulka může sloužit, jako zajímavý pohled na stravu celiaka. 
 
-Licence:  Na databázi se vztahují autorská práva.  
+Licence:  Na databázi se vztahují autorská práva.   
 
 ## Databáze vyhovujících bezlepkových výrobků  
 
