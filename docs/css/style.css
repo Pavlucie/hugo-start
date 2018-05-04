@@ -44,3 +44,11 @@ nav li {
 nav .active {
   font-weight: bold;
 }
+
+.homepage {
+  background-color: LemonChiffon;
+  border-style: solid;
+  border-width: medium;
+  border-color: Sienna;
+
+}

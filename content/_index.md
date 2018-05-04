@@ -1,5 +1,6 @@
 ---
 title: Home
+special: "homepage"
 ---
 
 # Celiakie k snídani, k obědu i k večeři
