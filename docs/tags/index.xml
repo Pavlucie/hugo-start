@@ -29,32 +29,5 @@
       <description></description>
     </item>
     
-    <item>
-      <title>Hello World</title>
-      <link>https://pavlucie.github.io/hugo-start/tags/hello-world/</link>
-      <pubDate>Tue, 13 Mar 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://pavlucie.github.io/hugo-start/tags/hello-world/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hugo</title>
-      <link>https://pavlucie.github.io/hugo-start/tags/hugo/</link>
-      <pubDate>Tue, 13 Mar 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://pavlucie.github.io/hugo-start/tags/hugo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Start</title>
-      <link>https://pavlucie.github.io/hugo-start/tags/start/</link>
-      <pubDate>Tue, 13 Mar 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://pavlucie.github.io/hugo-start/tags/start/</guid>
-      <description></description>
-    </item>
-    
   </channel>
 </rss>
