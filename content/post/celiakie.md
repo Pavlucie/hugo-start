@@ -10,3 +10,5 @@ draft: false
 <p><a href="https://vimeo.com/23805240"></a> from <a href="https://vimeo.com/friaglutenfree">Fria Gluten Free</a> on <a href="https://vimeo.com">Vimeo</a>.</p>  
 
 V našem skupinovém projektu zpracováváme Celiakii a z toho důvodu jsem se rozhodla sem vložit video, které o tomto tématu vypovídá.
+
+![Tabulka-Celiakie](https://img.mf.cz/818/814/32_6.jpg)
