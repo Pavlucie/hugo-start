@@ -1,8 +1,9 @@
-ï»¿---
-title: "TÃ½m"
+---
+title: "Tım"
 date: 2018-03-28T13:46:08+02:00
 draft: false
 ---  
 
-TÃ½m tvoÅ™Ã­ El
-iÅ¡ka SvobodovÃ¡, Kamila JeÅ¾ovÃ¡ a Lucie PavelkovÃ¡. Jsme tÃ­mto tÃ©matem motivovÃ¡ny, protoÅ¾e hodnÄ› lidÃ­ na svÄ›tÄ› tÃ­mto onemocnÄ›nÃ­m trpÃ­ a informacÃ­ o nÄ›m nenÃ­ mnoho. VyuÅ¾ijeme osobnÃ­ zkuÅ¡enosti jednÃ© z nÃ¡s, a tÃ­m vnesem originalitu do naÅ¡eho projektu.
+Tım tvoøí El
+iška Svobodová, Kamila Jeová a Lucie Pavelková. Jsme tímto tématem motivovány, protoe hodnì lidí na svìtì tímto onemocnìním trpí a informací o nìm není mnoho. Vyuijeme osobní zkušenosti jedné z nás, a tím vnesem originalitu do našeho projektu. 
+Dìkujeme za pøeètení.
